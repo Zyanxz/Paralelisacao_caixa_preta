@@ -14,7 +14,7 @@ python .\geradorimagem.py
 ```
 4) Executar o programa que converte a imagem gerada em uma nova imagem em escala em cinza na versão serial.
 ```
-python .\conversoremescalacinza.py
+python .\conversoremescalacinza.py imagem_entrada.ppm imagem_saida.ppm
 ```
 ✅ Processamento concluído!  
 ⏱️ Tempo total: 171.11 segundos
