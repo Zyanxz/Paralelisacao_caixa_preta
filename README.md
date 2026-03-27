@@ -1,6 +1,6 @@
 # Relatório da NOME DA ATIVIDADE
 
-**Disciplina:** PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA
+**Disciplina:** PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA  
 **Aluno(s):**Carlos Eduardo Pinheiro Da Silva, Victor Hugo Lima Pereira, Yan Lemos Santana.
 **Turma:**5° Semestre/Análise e Desenvolvimento de Sistemas
 **Professor:**Rafael Marconi Ramos
