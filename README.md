@@ -217,20 +217,5 @@ Discutir possíveis causas para:
 
 # 11. Conclusão
 
-Apresente as conclusões do experimento.
-
-## Sugestões de pontos a comentar
-
-* O paralelismo trouxe ganho significativo de desempenho?
-  O uso de paralelismo trouxe ganho significativo de desempenho, reduzindo o tempo de execução em comparação à versão serial.
-  
-* Qual foi o melhor número de threads/processos?
-  O melhor desempenho foi observado entre 8 e 12 processos, onde houve a maior redução no tempo total de processamento.
-  
-* O programa escala bem com o aumento do paralelismo?
-  No entanto, o programa não apresenta escalabilidade linear, pois o aumento do número de processos não resulta em ganho proporcional de desempenho.
-  
-* Quais melhorias poderiam ser feitas na implementação?
-  Isso ocorre devido ao overhead de criação e gerenciamento de processos, além de limitações de I/O e contenção de recursos do sistema.
-
+O paralelismo trouxe ganho significativo, reduzindo o tempo de execução em relação à versão serial.
 ---
