@@ -39,13 +39,13 @@ Explique:
 
 Descreva o ambiente em que os experimentos foram realizados.
 
-## Orientações  
+## Orientações
 
 Informar as características do hardware e software utilizados na execução dos testes.
 
 | Item                        | Descrição |
 | --------------------------- | --------- |
-| Processador                 |12th Gen Intel(R) Core(TM) i5-12500 3.00 GHz  |
+| Processador                 |12th Gen Intel(R) Core(TM) i5-12500 3.00 GHz|
 | Número de núcleos           |6 núcleos (cores) físicos|
 | Memória RAM                 |16,0 GB (utilizável: 15,7 GB)|
 | Sistema Operacional         |Windows 11 Pro|
